@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[shamir]]></title>
         <description><![CDATA[shamir]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/shamir/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 07:56:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 26 May 2016 07:58:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shamir/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5832309-4278-484b-a28e-7bc4ccc509f4.jpg">]]></description>
+            <link>https://thegrid.ai/shamir/70ad42d6-03cb-4570-b674-70fa1629efdb/index.html</link>
+            <guid isPermaLink="false">70ad42d6-03cb-4570-b674-70fa1629efdb</guid>
+            <pubDate>Thu, 26 May 2016 07:58:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Test</p>]]></description>
-            <link>undefinedtest/index.html</link>
+            <link>https://thegrid.ai/shamir/test/index.html</link>
             <guid isPermaLink="false">1c6fa6e4-b495-4adb-883e-c1d85037a658</guid>
             <pubDate>Thu, 26 May 2016 07:56:02 GMT</pubDate>
         </item>
